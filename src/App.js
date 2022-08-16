@@ -4,13 +4,13 @@ import { useEffect, useState } from 'react';
 import Countries from './Components/Countries/Countries';
 
 function App() {
-  const [] = useState()
   return (
     <div className="App">
       <Countries></Countries>
     </div>
   );
 }
+
 
 
 
